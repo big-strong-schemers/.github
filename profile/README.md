@@ -7,4 +7,4 @@
 
 👩‍💻 Useful resources - None at the moment. Needs to be created
 
-🍿 Fun facts - we workout and train Gracie Jiu-Jitsu and believe in [Unlicense](https://unlicense.org/) and [Trade Free](https://www.trade-free.org/)
+🍿 Fun facts - we workout and train Gracie Jiu-Jitsu and believe in [Unlicense](https://unlicense.org/), [Trade Free](https://www.trade-free.org/), and [Solarpunk Utopia](https://builtin.com/greentech/solarpunk)
